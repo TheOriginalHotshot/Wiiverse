@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Wiiverse</name>
+  <coder>YourName</coder>
+  <version>v1.0</version>
+  <release_date>20230801</release_date>
+  <short_description>Wiiverse Social Platform</short_description>
+  <long_description>Homebrew implementation of Wiiverse functionality</long_description>
+</app>
